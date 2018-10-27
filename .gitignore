@@ -10,3 +10,4 @@ Makefile
 config.h
 init.d/socketcand
 debian_pack
+.idea
